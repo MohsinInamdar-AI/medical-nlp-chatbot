@@ -120,3 +120,8 @@ curl -X POST http://127.0.0.1:8000/query \
   -H "Content-Type: application/json" \
   -d '{"mrd_number":"17319","query":"How many visits are recorded for this patient?"}'
 ```
+## Note
+
+```This project is submitted for technical assessment purposes only.
+   Sample patient records are used strictly for demonstration.
+```
