@@ -45,7 +45,7 @@ Client           |   POST /query     |
 ```
 
 ## Model Choice
-Default: `llama3.1:8b` via Ollama (editable in `.env`).  
+Default: `phi3` via Ollama (editable in `.env`).  
 You can switch to any locally available Ollama model.
 
 ## Retrieval Strategy
