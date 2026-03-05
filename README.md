@@ -122,6 +122,7 @@ curl -X POST http://127.0.0.1:8000/query \
 ```
 ## Note
 
-```This project is submitted for technical assessment purposes only.
-   Sample patient records are used strictly for demonstration.
+```bash
+This project is submitted for technical assessment purposes only.
+Sample patient records are used strictly for demonstration.
 ```
